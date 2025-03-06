@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizApp_API", "QuizApp_API\QuizApp_API.csproj", "{271C7C8D-815E-4865-9F5F-1B1193F7C876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{271C7C8D-815E-4865-9F5F-1B1193F7C876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{271C7C8D-815E-4865-9F5F-1B1193F7C876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{271C7C8D-815E-4865-9F5F-1B1193F7C876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{271C7C8D-815E-4865-9F5F-1B1193F7C876}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
