@@ -75,10 +75,10 @@ Die Applikation ermöglicht das Beantworten von Fragen in einem Quiz-Format. Ein
 ### Testprotokoll
 | TC-№ | Datum   | Resultat | Tester |
 |------|--------|---------|--------|
-| 1    | 28.02.25 | Bestanden | Martullo |
-| 2    | 28.02.25 | Bestanden | Martullo |
-| 3    | 28.02.25 | Bestanden | Martullo |
-| 4    | 28.02.25 | Bestanden | Martullo |
+| 1    | 28.02.25 | OK | Martullo |
+| 2    | 28.02.25 | OK | Martullo |
+| 3    | 28.02.25 | OK | Martullo |
+| 4    | 28.02.25 | OK | Martullo |
 
 ## 6. Auswerten
 Das Produkt funktioniert einwandfrei. Ein Testfall hat nicht funktioniert, dies war eine bewusste Entscheidung, während des Projektes
